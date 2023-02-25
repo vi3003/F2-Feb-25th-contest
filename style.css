@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Inter", normal;
+  font-weight: 400;
+}
+
+.navbar {
+  background-color: #000000;
+  height: 75px;
+  padding: 20px;
+  color: #FFFFFF;
+}
+.btn button {
+  background-color: #000000;
+  margin-top: 20px;
+  margin-left: 20px;
+  height: 30px;
+  width: 300px;
+  font-size: 16px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+table {
+  color: #000000;
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  height: 300px;
+  width: 100%;
+  outline: none;
+  text-align: center;
+}
+
+.table-head td {
+  border: 1px solid #000000;
+  padding-left: 20px;
+}
+td {
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+
+  padding: 20px;
+}
+.editable-table {
+  margin: 20px;
+}
+
+input {
+  height: 30px;
+  width: 150px;
+  padding: 10px;
+}
+
+.save-btn {
+  height: 30px;
+  width: 60px;
+  background-color: #000000;
+  color: #FFFFFF;
+  cursor: pointer;
+}
